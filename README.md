@@ -11,6 +11,11 @@ A customizable blur dialog widget for Flutter. This package provides a simple ye
 - Adjustable background color and blur intensity
 - Adjustable border radius
 
+## Pictures
+<img width="360"  alt="pic2" src="https://github.com/user-attachments/assets/4b83d450-85e4-4d97-a259-4abfabb9ac51" />
+<img width="360"  alt="pic1" src="https://github.com/user-attachments/assets/fcf234eb-3173-4a3b-a171-77018ea192af" />
+
+
 ## Installation
 
 Add the following to your `pubspec.yaml`:
